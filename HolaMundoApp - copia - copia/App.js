@@ -1,4 +1,4 @@
-rcialimport React, { useState } from 'react';
+import React, { useState } from 'react';
 import { View, Text, TextInput, Button, Image, ScrollView, Switch, StyleSheet } from 'react-native';
 import { Formik } from 'formik';
 import * as Yup from 'yup';
