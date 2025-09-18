@@ -20,6 +20,8 @@ export default function App() {
     setSwitches(updated);
   };
 
+  //inche parcial
+
   return (
     <ScrollView style={{ flex: 1 }}>
       {/* Primera sección: gris claro */}
