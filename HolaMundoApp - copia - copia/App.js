@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+rcialimport React, { useState } from 'react';
 import { View, Text, TextInput, Button, Image, ScrollView, Switch, StyleSheet } from 'react-native';
 import { Formik } from 'formik';
 import * as Yup from 'yup';
@@ -20,7 +20,7 @@ export default function App() {
     setSwitches(updated);
   };
 
-  //inche parcial
+  //que parcial carajo
 
   return (
     <ScrollView style={{ flex: 1 }}>
